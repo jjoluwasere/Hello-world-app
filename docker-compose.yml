@@ -1,0 +1,5 @@
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000" # exposes my local port to port 5000 inside my container
