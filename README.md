@@ -22,6 +22,7 @@ verify with: `python3 --version`
 ### Install docker desktop (apple sillicon or intel depending on the chip)
 verfify with: `docker --version` and `docker compose version`
 <br>
+<br>
 <img width="921" height="325" alt="image" src="https://github.com/user-attachments/assets/6000b0a3-3dda-4992-ae82-7c0084c6e892" />
 <br>
 ## How to Run the App
