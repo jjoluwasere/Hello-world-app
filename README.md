@@ -34,3 +34,5 @@ This is a simple Flask web app that returns `"Hello World<br>If you're reading t
 
 2. On a new browser search: 
 `http://localhost:5000`
+<br>
+<img width="452" height="122" alt="image" src="https://github.com/user-attachments/assets/f277c3ca-60fb-4723-bff7-7ec10a160b97" />
