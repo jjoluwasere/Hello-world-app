@@ -18,14 +18,16 @@ This is a simple Flask web app that returns `"Hello World<br>If you're reading t
 `brew install python`
 
 verify with: `python3 --version`
-
+<br>
 ### Install docker desktop (apple sillicon or intel depending on the chip)
 verfify with: `docker --version` and `docker compose version`
-
+<br>
+<img width="921" height="325" alt="image" src="https://github.com/user-attachments/assets/6000b0a3-3dda-4992-ae82-7c0084c6e892" />
+<br>
 ## How to Run the App
 
 ### With Docker
-
+<br>
 1. This will run the image:
 `docker build -t hello-world-app.`
 
@@ -35,7 +37,7 @@ verfify with: `docker --version` and `docker compose version`
 
 3. On a new browser search: 
 `http://localhost:5000`
-
+<br>
 ### With Docker Compose (my deployment)
 1. start the app:
 `docker-compose up --build`
