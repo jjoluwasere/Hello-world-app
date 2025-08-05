@@ -14,6 +14,14 @@ This is a simple Flask web app that returns `"Hello World<br>If you're reading t
 
 ---
 
+### Install Homebrew (if not already installed)
+`brew install python`
+
+verify with: `python3 --version`
+
+### Install docker desktop (apple sillicon or intel depending on the chip)
+verfify with: `docker --version` and `docker compose version`
+
 ## How to Run the App
 
 ### With Docker
