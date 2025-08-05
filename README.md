@@ -19,18 +19,18 @@ This is a simple Flask web app that returns `"Hello World<br>If you're reading t
 ### With Docker
 
 1. This will run the image:
-  -  docker build -t hello-world-app .
+`docker build -t hello-world-app.`
 
 
 2. This will run the container:
-  -  docker run -p 5000:5000 hello-world-app
+`docker run -p 5000:5000 hello-world-app.`
 
 3. On a new browser search: 
-  -  http://localhost:5000
+`http://localhost:5000`
 
 ### With Docker Compose (my deployment)
 1. start the app:
-  -  docker-compose up --build
+`docker-compose up --build`
 
 2. On a new browser search: 
-  -  http://localhost:5000
+`http://localhost:5000`
