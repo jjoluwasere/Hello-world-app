@@ -29,7 +29,6 @@ verfify with: `docker --version` and `docker compose version`
 
 ### With Docker
 <br>
-
 1. This will run the image:
 `docker build -t hello-world-app.`
 
