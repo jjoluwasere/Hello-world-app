@@ -1,2 +1,2 @@
-# Simple-hello-wolrd-app
+# Simple-hello-world-app
 Flask app with Docker deployment
