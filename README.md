@@ -28,7 +28,6 @@ verfify with: `docker --version` and `docker compose version`
 ## How to Run the App
 
 ### With Docker
-<br>
 1. This will run the image:
 `docker build -t hello-world-app.`
 
