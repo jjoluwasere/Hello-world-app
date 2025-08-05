@@ -39,11 +39,13 @@ verfify with: `docker --version` and `docker compose version`
 3. On a new browser search: 
 `http://localhost:5000`
 <br>
+
 ### With Docker Compose (my deployment)
 1. start the app:
 `docker-compose up --build`
 
 2. On a new browser search: 
 `http://localhost:5000`
+
 <br>
 <img width="452" height="122" alt="image" src="https://github.com/user-attachments/assets/f277c3ca-60fb-4723-bff7-7ec10a160b97" />
